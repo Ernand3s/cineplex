@@ -54,3 +54,4 @@ Se você tiver alguma dúvida ou apenas quiser bater um papo sobre filmes, pode 
 
 Aproveite o NS Filmes e boa sorte na sua busca cinematográfica! 🌟🎬
 ```
+link para visualizar: https://cineplex-peach.vercel.app/
